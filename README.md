@@ -1,6 +1,8 @@
 # Fomotograph
 
 Fomotograph is a practice tutorial to understand MVC design pattern in Ruby. [Sinatra](http://sinatrarb.com/) is the Ruby web framework used in this project. I followed a free course on Udacity to complete this project. Here's the [link](https://classroom.udacity.com/courses/ud270) to the course on Udacity.
+<br />
+<br />
 
 <img width="1440" alt="Fomotograph-Homepage-screenshot" src="./public/homepage.png">
 
